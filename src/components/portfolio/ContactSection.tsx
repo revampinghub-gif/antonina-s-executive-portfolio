@@ -5,7 +5,7 @@ const contacts = [
   { icon: Mail, label: "amorello2305@gmail.com", href: "mailto:amorello2305@gmail.com" },
   { icon: Phone, label: "+61 420 555 330", href: "tel:+61420555330" },
   { icon: MapPin, label: "Melbourne, Australia", href: undefined },
-  { icon: Linkedin, label: "linkedin.com/in/antonina-morello", href: "https://linkedin.com/in/antonina-morello" },
+  { icon: Linkedin, label: "linkedin.com/in/antonina-morello", href: "https://www.linkedin.com/in/antonina-morello" },
 ];
 
 export default function ContactSection() {
